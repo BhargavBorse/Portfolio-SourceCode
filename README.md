@@ -46,6 +46,5 @@ Website: https://bit.ly/pfolio11<br>
 Code: https://bit.ly/pfolio11code<br><hr>
 
 Interactive Resume<br><br>
-Our Very Own Prateek Bhaiya<br>
 Website: https://bit.ly/pfolio12<br>
 Code: https://bit.ly/pfolio12code<br><hr>
